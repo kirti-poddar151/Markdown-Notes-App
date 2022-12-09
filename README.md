@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Markdown Notes App:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# About project 
+This is an already existing project.
+In this app there will be a list of notes on the left. We can create new notes. And on the right there is a markdown editor where you can toggle between preview and write. When you click on preview button it will render that as html. But it has very limited features.
+
+# New Features Added
+1. Sync notes with localStorage
+2. Add notes summary titles
+3. Move modified notes to the top of the list
+4. Delete Notes
+
+![image](https://user-images.githubusercontent.com/80633197/206737531-b008ac39-ac72-43a1-921f-f2c81fb2d657.png)
+
 
 ## Available Scripts
 
